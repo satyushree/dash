@@ -11,7 +11,7 @@ except:
         BOT_TOKEN = os.environ.get("BOT_TOKEN", "1524792665:AAH8Au9FGrrp5vZfUJEccSPl7vf7jA3ovwU")
         BASE_URL_OF_BOT = os.environ.get("BASE_URL_OF_BOT", "https://dashtortoolkit.herokuapp.com")
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [-1001485521459,1243382770,1243382770"]
+        ALD_USR = [-1001485521459,1243382770,1243382770]
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = os.environ.get("GD_INDEX_URL", "https://shree.satyu.workers.dev")
